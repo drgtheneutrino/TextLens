@@ -159,15 +159,6 @@ pytest tests/
 pytest --cov=src tests/
 ```
 
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## Future Enhancements 🔮
 
@@ -182,23 +173,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - [ ] Machine learning-based style detection
 - [ ] Plagiarism detection features
 
-## License 📄
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments 🙏
-
-- NLTK for natural language processing tools
-- TextBlob for sentiment analysis
-- TextStat for readability calculations
-- spaCy for advanced NLP features
-
-## Contact 📧
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/textlens](https://github.com/yourusername/textlens)
-
----
-
-Made with ❤️ by [Your Name]
